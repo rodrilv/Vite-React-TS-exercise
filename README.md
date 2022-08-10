@@ -1,3 +1,3 @@
-# vitejs-vite-9mpgkf
+# Vite-React-TS exercise!
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/vitejs-vite-9mpgkf)
+## Now I know how Vite works in React! :D
